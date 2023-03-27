@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteAppFH</string>
+    <string name="submit">Add Note</string>
+    <string name="addNoteData">Add Note Title and Content!</string>
+    <string name="title_hint">Title</string>
+    <string name="body_hint">Content</string>
+    <string name="submit_note">Submit</string>
+</resources>
